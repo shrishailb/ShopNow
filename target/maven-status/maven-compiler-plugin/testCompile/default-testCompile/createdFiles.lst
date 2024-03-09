@@ -1,0 +1,3 @@
+org\shopNow\POM\shopNow_POM.class
+org\shopNow\stepDefinitions\shopNow_step.class
+org\shopNow\testRunner\TestRunner.class
